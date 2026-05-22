@@ -1,7 +1,7 @@
 # Demonstrasi-Penggunaan-Geneious-dalam-Pembuatan-Pohon-Filogenetik-Hewan-Laut
 
 
-Pada demonstrasi ini, eksplorasi perangkat lunak Geneious dilakukan dengan melakukan penjajaran, trimming, dan pembangunan ulang pohon filogenetik menggunakan sampel sekuens nukleotida spesies-spesies hewan dari jurnal acuan. Spesies yang digunakan meliputi Hippocampus algiricus, Hippocampus comes, Syngnathus pelagicus, Syngnathus floridae, Hippocampus bargibanti, dan Solenostomus paradoxus.
+Pada demonstrasi ini, eksplorasi perangkat lunak Geneious Prime dilakukan dengan melakukan penjajaran, trimming, dan pembangunan ulang pohon filogenetik menggunakan sampel sekuens nukleotida spesies-spesies hewan dari jurnal acuan. Spesies yang digunakan meliputi Hippocampus algiricus, Hippocampus comes, Syngnathus pelagicus, Syngnathus floridae, Hippocampus bargibanti, dan Solenostomus paradoxus.
 Jurnal acuan yang dipakai dapat diakses di <a href="https://www.the-innovation.org/article/doi/10.59717/j.xinn-geo.2025.100137">sini</a>  
 
 Sebelum aplikasi Geneious dapat digunakan, perlu diperoleh sekuen nukleotida dari tiap spesies yang ingin diteliti dalam bentuk format file FASTA. Salah satu situs untuk menemukan sekuens nukleotida adalah situs National Center for Biotechnology Information (NCBI). Pada situs NCBI di dalam database nukleotida, sekuens nukleotida dapat dicari dengan menulis nama spesies, jenis gen, dan keutuhan sekuens pada kolom pencarian. Pada demonstrasi ini, digunakan sekuen coding DNA parsial pada gen COI (Cytochrome c Oxidase Subunit I) karena karakteristiknya yang bersifat highly conserved serta panjang basa yang pendek memerlukan waktu singkat untuk diproses. Sekuens yang memenuhi syarat tersebut dicari dan diunduh dalam format FASTA.
