@@ -61,3 +61,7 @@ Setelah penjajaran selesai, akan muncul file baru dalam direktori yang bernama �
 
 
 11. Pohon filogenetik dapat disimpan dengan menekan shortcut Ctrl+Shift+E, lalu memilih lokasi, jenis file, dan menulis nama file. Terakhir, klik tombol “Export” untuk menyimpan pohon filogenetik
+
+PENUTUP
+
+Geneious adalah aplikasi dengan fleksibilitas dan kompatibilitas tinggi, yang berguna antara lain dalam memodifikasi, memindahkan, visualisasi, penjajaran, dan trimming sekuens DNA, serta pembuatan pohon filogenetik seperti yang sudah didemonstrasikan pada makalah ini. Penggunaan aplikasi Geneious yang cepat dan mudah dipahami menjadikan aplikasi Geneious sebagai potensi alternatif terhadap aplikasi-aplikasi serupa. Selain itu, keragaman fitur-fitur dalam aplikasi Geneious memungkinkan pemanfaatan Geneious untuk penelitian dalam berbagai bidang bioinformatika lainnya.
